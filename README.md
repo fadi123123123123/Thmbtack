@@ -1,1 +1,1 @@
-# Thmbtack
+# Thumbtack
